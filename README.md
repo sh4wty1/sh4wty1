@@ -1,15 +1,10 @@
-# 👩🏻‍💻 Lucas Fassi
+# 👨🏻‍💻 Lucas Fassi
 
 **`Python Dev`**
 
 Me chamo Lucas Fassi Alves, tenho 17 anos e sou de São Paulo. Estou cursando meu último ano do ensino médio no Colégio Arbos e pretendo cursar Ciências da Computação. Sempre tive grande interesse por programação e tecnologia, principalmente por ser fã de desafios e por gostar de aprender fazendo.
-<p align="left">
-    <a href="https://www.linkedin.com/in/lucas-fassi-alves-84163a20b/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" width="550" height="100" />
-    </a>
----
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
@@ -62,7 +57,7 @@ Me chamo Lucas Fassi Alves, tenho 17 anos e sou de São Paulo. Estou cursando me
 <br/>
 <br/>
 
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <img 
       align="left" 
