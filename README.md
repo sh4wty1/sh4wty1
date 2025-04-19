@@ -2,7 +2,8 @@
 
 **`Python Dev`**
 
-Me chamo Lucas Fassi Alves, tenho 17 anos e sou de São Paulo. Estou cursando meu último ano do ensino médio no Colégio Arbos e pretendo cursar Ciências da Computação. Sempre tive grande interesse por programação e tecnologia, principalmente por ser fã de desafios e por gostar de aprender fazendo.
+Tenho 17 anos, sou de São Paulo e atualmente estou no último ano do ensino médio no Colégio Arbos. Desde cedo, sempre fui apaixonado por tecnologia e programação — não apenas pelo fascínio que o mundo digital desperta, mas também pelo prazer em resolver problemas e criar coisas novas com minhas próprias mãos.
+Estou me preparando para cursar Ciência da Computação na faculdade, com o objetivo de aprofundar meus conhecimentos e me tornar um desenvolvedor completo. Tenho perfil autodidata, aprendo rápido e gosto de entender como as coisas funcionam “por trás dos panos”.
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -48,11 +49,19 @@ Me chamo Lucas Fassi Alves, tenho 17 anos e sou de São Paulo. Estou cursando me
 />
 <img
     align="left" 
-    alt="Django" 
-    title="Django"
+    alt="Flask" 
+    title="Flask"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+/>
+<img
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
 />
 <br/>
 <br/>
