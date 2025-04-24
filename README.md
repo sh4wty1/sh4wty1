@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Lucas Fassi
 
-**`Python Dev`**
+**`Front-End dev | Python dev`**
 
 Tenho 17 anos, sou de São Paulo e atualmente estou no último ano do ensino médio no Colégio Arbos. Desde cedo, sempre fui apaixonado por tecnologia e programação — não apenas pelo fascínio que o mundo digital desperta, mas também pelo prazer em resolver problemas e criar coisas novas com minhas próprias mãos.
 Estou me preparando para cursar Ciência da Computação na faculdade, com o objetivo de aprofundar meus conhecimentos e me tornar um desenvolvedor completo. Tenho perfil autodidata, aprendo rápido e gosto de entender como as coisas funcionam “por trás dos panos”.
@@ -15,22 +15,7 @@ Estou me preparando para cursar Ciência da Computação na faculdade, com o obj
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<img
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-<img
-    align="left" 
-    alt="Debian" 
-    title="Debian"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg"
-/>
+
 <img 
     align="left" 
     alt="HTML"
@@ -55,6 +40,14 @@ Estou me preparando para cursar Ciência da Computação na faculdade, com o obj
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
 />
+<img
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -73,11 +66,27 @@ Estou me preparando para cursar Ciência da Computação na faculdade, com o obj
 />
 <img
     align="left" 
-    alt="Flask" 
-    title="Flask"
+    alt="Windows" 
+    title="Windows"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
+/>
+<img
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
+<img
+    align="left" 
+    alt="Debian" 
+    title="Debian"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-plain.svg"
 />
 <br/>
 <br/>
