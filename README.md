@@ -3,7 +3,7 @@
 **`Front-End dev | Python dev`**
 
 Tenho 17 anos, sou de São Paulo e atualmente estou no último ano do ensino médio no Colégio Arbos. Desde cedo, sempre fui apaixonado por tecnologia e programação — não apenas pelo fascínio que o mundo digital desperta, mas também pelo prazer em resolver problemas e criar coisas novas com minhas próprias mãos.
-Estou me preparando para cursar Ciência da Computação na faculdade, com o objetivo de aprofundar meus conhecimentos e me tornar um desenvolvedor completo. Tenho perfil autodidata, aprendo rápido e gosto de entender como as coisas funcionam “por trás dos panos”.
+Estou me preparando para cursar Ciência da Computação na faculdade, com o objetivo de aprofundar meus conhecimentos e me tornar um desenvolvedor completo. Tenho perfil autodidata, aprendo rápido e gosto de entender como as coisas funcionam “por trás dos panos”. 
 
 ## 🤖 Linguagens e Tecnologias
 
