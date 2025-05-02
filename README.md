@@ -90,12 +90,6 @@ Estou me preparando para cursar Ciência da Computação na faculdade, com o obj
       height="200" 
       src="https://github-readme-stats.vercel.app/api?username=sh4wty1&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" 
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4wty1&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"
-  />
 
   
 </p>
