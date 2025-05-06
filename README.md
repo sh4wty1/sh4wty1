@@ -27,3 +27,5 @@ I'm preparing to study Computer Science at college, with the goal of deepening m
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh4wty1&theme=dark&show_icons=true&hide_border=true&layout=compact"
   />
 </p>
+
+###### Native Portuguese | Advanced English
