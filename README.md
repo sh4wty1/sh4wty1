@@ -7,11 +7,11 @@ I'm preparing to study Computer Science at college, with the goal of deepening m
 
 ## 🤖 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,html,css,sass,git,django,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,html,css,sass,git,django,windows,linux,kali)](https://skillicons.dev)
 <br/>
 <br/>
 
-## 📊 Estatísticas
+## 📊 Stats
 
 <img 
       align="left" 
