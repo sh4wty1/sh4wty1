@@ -28,4 +28,6 @@ I'm preparing to study Computer Science at college, with the goal of deepening m
   />
 </p>
 
+<br/>
+
 ###### Native Portuguese | Advanced English
