@@ -2,100 +2,12 @@
 
 **`Front-End dev | Python dev`**
 
-Tenho 17 anos, sou de São Paulo e atualmente estou no último ano do ensino médio no Colégio Arbos. Desde cedo, sempre fui apaixonado por tecnologia e programação — não apenas pelo fascínio que o mundo digital desperta, mas também pelo prazer em resolver problemas e criar coisas novas com minhas próprias mãos.
-Estou me preparando para cursar Ciência da Computação na faculdade, com o objetivo de aprofundar meus conhecimentos e me tornar um desenvolvedor completo. Tenho perfil autodidata, aprendo rápido e gosto de entender como as coisas funcionam “por trás dos panos”. 
+I'm 17 years old, I'm from São Paulo and I'm currently in my last year of high school at Colégio Arbos. Since I was young, I've always been passionate about technology and programming — not only because of the fascination that the digital world awakens, but also because of the pleasure of solving problems and creating new things with my own hands.
+I'm preparing to study Computer Science at college, with the goal of deepening my knowledge and becoming a complete developer. I'm self-taught, I learn quickly and I like to understand how things work "behind the scenes". 
 
-## 🤖 Linguagens e Tecnologias
+## 🤖 Stacks
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img
-    align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img
-    align="left" 
-    alt="Windows" 
-    title="Windows"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg"
-/>
-<img
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,redux,html,css,sass,git,django,windows,linux)](https://skillicons.dev)
 <br/>
 <br/>
 
