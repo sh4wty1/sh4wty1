@@ -2,8 +2,7 @@
 
 **`Front-End dev | Python dev`**
 
-I'm 17 years old, I'm from São Paulo and I'm currently in my last year of high school at Colégio Arbos. Since I was young, I've always been passionate about technology and programming — not only because of the fascination that the digital world awakens, but also because of the pleasure of solving problems and creating new things with my own hands.
-I'm preparing to study Computer Science at college, with the goal of deepening my knowledge and becoming a complete developer. I'm self-taught, I learn quickly and I like to understand how things work "behind the scenes". 
+I'm a self-taught developer from São Paulo, currently preparing to start my degree in Data Science and Artificial Intelligence at PUC-SP. I work mainly with Python and Web Development, and I enjoy building projects that involve automation, data processing and modern web technologies. I learn quickly and like to understand how things work behind the scenes. 
 
 **`Native Portuguese | Advanced English`**
 
