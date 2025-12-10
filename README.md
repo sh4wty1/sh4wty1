@@ -8,6 +8,6 @@ I'm a self-taught developer from São Paulo, currently preparing to start my deg
 
 ## 🤖 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,tailwind,redux,git,django,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,tailwind,redux,git,windows,linux)](https://skillicons.dev)
 <br/>
 <br/>
