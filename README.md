@@ -2,7 +2,7 @@
 
 **`Front-End dev | Python dev`**
 
-I'm a self-taught developer from São Paulo, currently preparing to start my degree in Data Science and Artificial Intelligence at PUC-SP. I work mainly with Python and Web Development, and I enjoy building projects that involve automation, data processing and modern web technologies. I learn quickly and like to understand how things work behind the scenes. 
+I'm a self-taught developer from São Paulo, currently preparing to start my degree in Computer Science. I work mainly with Python and Web Development, and I enjoy building projects that involve automation, data processing and modern web technologies. I learn quickly and like to understand how things work behind the scenes. 
 
 **`Native Portuguese | Advanced English`**
 
