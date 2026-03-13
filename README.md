@@ -8,7 +8,7 @@
 
 **`Junior Dev · Fullstack`**
 
-I'm a self-taught developer from São Paulo, currently preparing to start my degree in Computer Science. I work mainly with Python and Web Development, and I enjoy building projects that involve automation, data processing and modern web technologies. I learn quickly and like to understand how things work behind the scenes. 
+> I'm a self-taught developer from São Paulo, currently preparing to start my degree in Computer Science at UFABC. I work mainly with Web Development, including Frontend and Backend, and I enjoy building projects that > involve modern web technologies. I learn quickly and like to understand how things work behind the scenes. 
 
 **`Native Portuguese | Advanced English`**
 
@@ -35,12 +35,10 @@ I'm a self-taught developer from São Paulo, currently preparing to start my deg
 > **`React` `TypeScript` `Tailwind` `PostgreSQL` `Java` `Spring Boot`**
 > *Fullstack SaaS for finding jobs or hiring employees*
 
-> **🪙 [QR Code Generator](https://github.com/sh4wty1/qrcode-generator.git)**
+> **👨🏻‍💻 [QR Code Generator](https://github.com/sh4wty1/qrcode-generator.git)**
 >
 > **`TypeScript` `React`**
 > *Front-end application for generating QR code via the link.*
-
----
 
 ## 📊 GitHub Stats
 
@@ -53,5 +51,3 @@ I'm a self-taught developer from São Paulo, currently preparing to start my deg
 |:-:|:-:|
 
 </div>
-
----
