@@ -4,7 +4,7 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sh4wty1&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sh4wty1)
 &nbsp;
-![Open to Work](https://img.shields.io/badge/🟢_Open_to_Internship-0d1b2a?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-0d1b2a?style=for-the-badge)
 
 **`Junior Dev · Fullstack`**
 
