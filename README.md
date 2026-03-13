@@ -8,7 +8,7 @@ I'm a self-taught developer from São Paulo, currently preparing to start my deg
 
 ## 🤖 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,python,js,spring,postgre,sql,docker,react,tailwind,git,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,ts,python,js,spring,postgresql,docker,react,tailwind,git,windows,linux)](https://skillicons.dev)
 <br/>
 <br/>
 
