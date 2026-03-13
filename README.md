@@ -23,21 +23,25 @@
 > **🐍 [Python DirBuster](https://github.com/sh4wty1/PythonDirBuster)**
 >
 > **`Python`**
+> <br/>  
 > *DirBuster inspired app built with Python*
 
 > **☕ [Task Manager API](https://github.com/sh4wty1/task-manager-API.git)**
 >
 > **`Java` `Spring Boot`**
+> <br/>
 > *Basic CRUD built with Java and Springboot*
 
 > **🪙 [Jobify](https://github.com/sh4wty1/Jobify.git)**
 >
 > **`React` `TypeScript` `Tailwind` `PostgreSQL` `Java` `Spring Boot`**
+> <br/>
 > *Fullstack SaaS for finding jobs or hiring employees*
 
 > **👨🏻‍💻 [QR Code Generator](https://github.com/sh4wty1/qrcode-generator.git)**
 >
 > **`TypeScript` `React`**
+> <br/>
 > *Front-end application for generating QR code via the link.*
 
 ## 📊 GitHub Stats
