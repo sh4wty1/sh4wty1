@@ -44,6 +44,12 @@
 > <br/>
 > *Front-end application for generating QR code via the link.*
 
+> **👨🏻‍💻 [TinyURL](https://github.com/sh4wty1/tinyurl.git)**
+>
+> **`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `PostgreSQL` `Docker`**
+> <br/>
+> *Simple URL shortener fullstack application.*
+
 ## 📊 GitHub Stats
 
 <div align="center">
