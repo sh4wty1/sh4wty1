@@ -8,7 +8,13 @@
 
 **`Junior Dev · Fullstack`**
 
-> I'm a self-taught developer from São Paulo, currently preparing to start my degree in Computer Science at UFABC. I work mainly with Web Development, including Frontend and Backend, and I enjoy building projects that > involve modern web technologies. I learn quickly and like to understand how things work behind the scenes. 
+> I'm a Computer Science student at UFABC and currently working as a Junior Developer / Intern, focused on building modern web applications.
+
+> I work mainly with Python and JavaScript across both backend and frontend development, and I enjoy turning ideas into real, functional products.
+
+> Most of my interest in programming comes from understanding how things work under the hood — from web architecture and APIs to security and system design.
+
+> Outside of coding, I'm constantly learning, experimenting, and building projects to improve both my technical and problem-solving skills.
 
 **`Native Portuguese | Advanced English`**
 
