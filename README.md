@@ -1,60 +1,42 @@
 # 👨🏻‍💻 Lucas Fassi
 
+<div align="center">
+
+[![Website](https://img.shields.io/badge/🌎_fassi.dev-000000?style=for-the-badge)](https://fassi.dev)
+&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lfassialves/)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sh4wty1&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sh4wty1)
-&nbsp;
-![Open to Work](https://img.shields.io/badge/🟢_Open_to_Work-0d1b2a?style=for-the-badge)
 
-**`Junior Dev · Fullstack`**
+</div>
 
-> I'm a Computer Science student at UFABC and currently working as a Junior Developer / Intern, focused on building modern web applications.
+---
 
-> I work mainly with Python and JavaScript across both backend and frontend development, and I enjoy turning ideas into real, functional products.
+### Software Developer
 
-> Most of my interest in programming comes from understanding how things work under the hood — from web architecture and APIs to security and system design.
+> Building web, mobile and automation projects.
 
-> Outside of coding, I'm constantly learning, experimenting, and building projects to improve both my technical and problem-solving skills.
+I'm Lucas — a developer from Brazil focused on creating software that solves real problems.
+
+Currently building production software at **89FM**, working with web applications, internal tools, mobile experiences and automation systems.
+
+I enjoy understanding how things work behind the scenes — from interfaces and APIs to architecture, systems and security.
+
+Most of my work, projects and experiments live here:
+
+### → [fassi.dev](https://fassi.dev)
 
 **`Native Portuguese | Advanced English`**
 
-## 🤖 Stacks
+---
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,python,js,spring,postgresql,docker,react,tailwind,git,vscode,visualstudio,windows,linux)](https://skillicons.dev)
+## 🤖 Stack
+
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,python,js,spring,postgresql,docker,react,next,tailwind,git,vscode,visualstudio,windows,linux)](https://skillicons.dev)
+
 <br/>
-<br/>
 
-## 🎖️ Portfolio
-
-> **🐍 [Python DirBuster](https://github.com/sh4wty1/PythonDirBuster)**
->
-> **`Python`**
-> <br/>  
-> *DirBuster inspired app built with Python*
-
-> **☕ [Task Manager API](https://github.com/sh4wty1/task-manager-API.git)**
->
-> **`Java` `Spring Boot`**
-> <br/>
-> *Basic CRUD built with Java and Springboot*
-
-> **🪙 [Jobify](https://github.com/sh4wty1/Jobify.git)**
->
-> **`React` `TypeScript` `Tailwind` `PostgreSQL` `Java` `Spring Boot`**
-> <br/>
-> *Fullstack SaaS for finding jobs or hiring employees*
-
-> **👨🏻‍💻 [QR Code Generator](https://github.com/sh4wty1/qrcode-generator.git)**
->
-> **`TypeScript` `React`**
-> <br/>
-> *Front-end application for generating QR code via the link.*
-
-> **👨🏻‍💻 [TinyURL](https://github.com/sh4wty1/tinyurl.git)**
->
-> **`HTML` `CSS` `JavaScript` `Java` `Spring Boot` `PostgreSQL` `Docker`**
-> <br/>
-> *Simple URL shortener fullstack application.*
+---
 
 ## 📊 GitHub Stats
 
