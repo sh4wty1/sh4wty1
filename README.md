@@ -20,7 +20,7 @@
 
 ## 🤖 Stacks
 
-[![My Skills](https://skillicons.dev/icons?i=java,ts,python,js,spring,postgresql,docker,react,tailwind,git,vscode,visualstudio,windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,python,js,spring,postgresql,docker,react,tailwind,git,vscode,visualstudio,windows,linux)](https://skillicons.dev)
 <br/>
 <br/>
 
