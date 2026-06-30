@@ -30,11 +30,19 @@ Most of my work, projects and experiments live here:
 
 ---
 
-## 🤖 Stack
-**`Tudo que já utilizei em algum lugar:`**
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,python,js,cs,swift,spring,dotnet,postgresql,docker,react,next,tailwind,git,vscode,visualstudio,windows,linux,apple)](https://skillicons.dev)
+## 🤖 Tech Stack
 
-<br/>
+### Languages
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,ts,js,python,swift&perline=7)](https://skillicons.dev)
+
+### Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,next,spring,dotnet,tailwind&perline=5)](https://skillicons.dev)
+
+### Database & Tools
+[![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,visualstudio&perline=5)](https://skillicons.dev)
+
+### Platforms
+[![Platforms](https://skillicons.dev/icons?i=windows,linux,apple&perline=3)](https://skillicons.dev)
 
 ---
 
