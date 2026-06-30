@@ -32,7 +32,7 @@ Most of my work, projects and experiments live here:
 
 ## 🤖 Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,python,js,csharp,swift,claude,spring,dotnet,postgresql,docker,react,next,tailwind,git,vscode,visualstudio,windows,linux,macos)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,ts,python,js,cs,swift,spring,dotnet,postgresql,docker,react,next,tailwind,git,vscode,visualstudio,windows,linux,apple)](https://skillicons.dev)
 
 <br/>
 
