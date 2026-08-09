@@ -33,7 +33,7 @@ Most of my work, projects and experiments live here:
 ## 🤖 Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,ts,js,python,swift&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,ts,rust,php,python,swift&perline=7)](https://skillicons.dev)
 
 ### Frameworks & Libraries
 [![Frameworks](https://skillicons.dev/icons?i=react,next,spring,dotnet,tailwind&perline=5)](https://skillicons.dev)
