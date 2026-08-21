@@ -48,13 +48,13 @@ Most of my work, projects and experiments live here:
 
 ## 🎸 Random Facts About Me
 
-### I play guitar 🎶
+### → I play guitar 🎶
 
 > This is probably my #1 hobby
 
-### Stock Market 📈
+### → Stock Market 📈
 
-> Losing money on stocks professionally 
+> Losing money on stocks professionally
 
 ---
 
