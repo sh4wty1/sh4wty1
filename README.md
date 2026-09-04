@@ -7,6 +7,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lfassialves/)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sh4wty1&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sh4wty1)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+&nbsp;
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/lfassialves/)
 
 </div>
 
@@ -26,7 +30,13 @@ Most of my work, projects and experiments live here:
 
 ### → [fassi.dev](https://fassi.dev)
 
-**`Native Portuguese | Advanced English`**
+<div align="center">
+  
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=for-the-badge)
+&nbsp;
+![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)
+
+</div>
 
 ---
 
