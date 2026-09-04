@@ -33,10 +33,10 @@ Most of my work, projects and experiments live here:
 ## 🤖 Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,cs,ts,rust,php,python,swift&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,kotlin,ts,rust,php,python,swift&perline=7)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,next,spring,dotnet,tailwind&perline=5)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,next,spring,laravel,tailwind&perline=5)](https://skillicons.dev)
 
 ### Database & Tools
 [![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,visualstudio&perline=5)](https://skillicons.dev)
