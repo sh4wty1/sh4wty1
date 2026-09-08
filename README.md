@@ -8,7 +8,7 @@
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=sh4wty1&color=0d1b2a&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/sh4wty1)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.lfassi@gmail.com)
 &nbsp;
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-success?style=for-the-badge&logo=briefcase&logoColor=white)](https://www.linkedin.com/in/lfassialves/)
 
