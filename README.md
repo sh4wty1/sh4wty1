@@ -43,16 +43,19 @@ Most of my work, projects and experiments live here:
 ## 🤖 Tech Stack
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=java,kotlin,ts,rust,php,python,swift&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,ts,python&perline=7)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,next,spring,laravel,tailwind&perline=5)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,next,nest,express,react,spring,tailwind&perline=7)](https://skillicons.dev)
 
 ### Database & Tools
-[![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,visualstudio&perline=5)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,cloudflare&perline=6)](https://skillicons.dev)
 
-### Platforms
-[![Platforms](https://skillicons.dev/icons?i=windows,linux,apple&perline=3)](https://skillicons.dev)
+### Tools & CLI
+[![CLI](https://skillicons.dev/icons?i=bash,powershell&perline=2)](https://skillicons.dev)
+
+### OS
+[![Platforms](https://skillicons.dev/icons?i=windows,linux,ubuntu,kali,apple&perline=5)](https://skillicons.dev)
 
 ---
 
