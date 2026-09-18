@@ -46,7 +46,7 @@ Most of my work, projects and experiments live here:
 [![Languages](https://skillicons.dev/icons?i=java,ts,python&perline=7)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,next,nest,express,react,spring,tailwind&perline=7)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=spring,next,node,express&perline=7)](https://skillicons.dev)
 
 ### Database & Tools
 [![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,cloudflare&perline=6)](https://skillicons.dev)
