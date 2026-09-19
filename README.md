@@ -49,7 +49,7 @@ Most of my work, projects and experiments live here:
 [![Frameworks](https://skillicons.dev/icons?i=spring,next,nodejs,express&theme=dark)](https://skillicons.dev)
 
 ### Database & Tools
-[![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,idea&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postgresql,docker,git,vscode,idea,webstorm,pycharm&theme=dark)](https://skillicons.dev)
 
 ### Tools & CLI
 [![CLI](https://skillicons.dev/icons?i=bash,powershell&theme=dark)](https://skillicons.dev)
